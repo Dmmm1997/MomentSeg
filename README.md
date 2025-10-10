@@ -40,7 +40,8 @@
 <summary>Demo 1</summary>
 Input Video (Source: Internet):
 
-<img src="assets/videos/demo_1.gif" alt="Error" width="400">
+<!-- <img src="assets/videos/demo_1.gif" alt="Error" width="400"> -->
+![Error](assets/videos/demo_1.gif)
 
 Instruction: "Please segment the monkey that is scratching its ear."
 
@@ -50,7 +51,8 @@ Instruction: "Please segment the monkey that is scratching its ear."
 <summary>Demo 2</summary>
 Input Video (Source: Internet):
 
-<img src="assets/videos/demo_2.gif" alt="Error" width="400">
+<!-- <img src="assets/videos/demo_2.gif" alt="Error" width="400"> -->
+![Error](assets/videos/demo_2.gif)
 
 Instruction: "Please segment the person standing in the center wearing blue clothes."
 
