@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/arXiv-2509.18094-red"></a>
-  <a href="h" target="_blank"><img src="https://img.shields.io/badge/Project-Page-brightgreen"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue"></a>
+  <a href="https://dmmm1997.github.io/momentseg/" target="_blank"><img src="https://img.shields.io/badge/Project-Page-brightgreen"></a>
+  <a href="https://huggingface.co/Dmmm997/MomentSeg" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue"></a>
 </p>
 
 <p align="center">
