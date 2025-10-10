@@ -13,8 +13,7 @@
 
 ---
 
-<video src="assets/videos/demo.mp4" controls width="600" autoplay loop muted playsinline>
-</video>
+<img src="assets/videos/demo.gif" alt="Demo Animation" width="600" loading="lazy">
 
 ---
 
