@@ -106,8 +106,8 @@ Instruction: "Please segment the person standing in the center wearing blue clot
 
 | Model Name |                            Base MLLM                            |  HF Link  |
 | :--------: | :--------------------------------------------------------------: | :-------: |
-|  Sa2VA-3B  | [Qwen2.5-VL-3B](https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct) | [🤗 link] |
-|  Sa2VA-7B  | [Qwen2.5-VL-7B](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct) | [🤗 link] |
+|  MomentSeg-3B  | [Qwen2.5-VL-3B](https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct) | [🤗 link] |
+|  MomentSeg-7B  | [Qwen2.5-VL-7B](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct) | [🤗 link] |
 
 ## 🚀 Training (TODO)
 
