@@ -13,7 +13,8 @@
 
 ---
 
-<img src="assets/videos/demo.gif" alt="Demo Animation" width="600" loading="lazy">
+<img src="assets/videos/demo.gif" alt="Demo Animation" style="width: 100%; height: auto;" loading="lazy">
+
 
 ---
 
