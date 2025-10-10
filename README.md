@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://dmmm1997.github.io/">Ming Dai</a><sup>1</sup>, <a href="https://senyang-ml.github.io/research/index_en.html">Sen Yang</a><sup>2</sup>, <a href="">Boqiang Duan</a><sup>2</sup>, <a href="https://automation.seu.edu.cn/ywk/list.htm">Wankou Yang</a><sup>1</sup>, <a href="https://jingdongwang2017.github.io/">Jingdong Wang</a><sup>2</sup>
+  <a href="https://dmmm1997.github.io/">Ming Dai</a><sup>1</sup>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=z5O3DLcAAAAJ">Sen Yang</a><sup>2</sup>, <a href="">Boqiang Duan</a><sup>2</sup>, <a href="https://automation.seu.edu.cn/ywk/list.htm">Wankou Yang</a><sup>1</sup>, <a href="https://jingdongwang2017.github.io/">Jingdong Wang</a><sup>2</sup>
   <p align="center"><sup>1</sup>Southeast University; <sup>2</sup>Baidu VIS<br/></p>
 </p>
 
