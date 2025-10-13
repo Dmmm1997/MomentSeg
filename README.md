@@ -1,7 +1,7 @@
 <h2 align="center">MomentSeg: Moment-Centric Sampling for Enhanced <br> Video Pixel Understanding</h2>
 
 <p align="center">
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/arXiv-2509.18094-red"></a>
+  <a href="https://arxiv.org/abs/2510.09274" target="_blank"><img src="https://img.shields.io/badge/arXiv-2510.09274-red"></a>
   <a href="https://dmmm1997.github.io/momentseg/" target="_blank"><img src="https://img.shields.io/badge/Project-Page-brightgreen"></a>
   <a href="https://huggingface.co/Dmmm997/MomentSeg" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue"></a>
 </p>
@@ -13,10 +13,12 @@
 
 ---
 
-<img src="assets/videos/demo.gif" alt="Demo Animation" style="width: 100%; height: auto;" loading="lazy">
-
+<video src="assets/videos/demo.mp4" alt="Demo Video" style="width: 100%; height: auto;" controls loading="lazy">
+  您的浏览器不支持视频标签。
+</video>
 
 ---
+
 
 **MomentSeg** is a unified MLLM for pixel-level vision–language understanding, designed with a moment-centric sampling strategy to better capture fine-grained semantics in video. It flexibly supports a range of tasks, including referring and reasoning image/video segmentation, video temporal grounding, and image/video question answering.
 
@@ -118,5 +120,13 @@ Instruction: "Please segment the person standing in the center wearing blue clot
 Please kindly cite our paper if you find this project helpful.
 
 ```bibtex
-
+@misc{momentseg,
+      title={MomentSeg: Moment-Centric Sampling for Enhanced Video Pixel Understanding}, 
+      author={Ming Dai and Sen Yang and Boqiang Duan and Wankou Yang and Jingdong Wang},
+      year={2025},
+      eprint={2510.09274},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2510.09274}, 
+}
 ```
