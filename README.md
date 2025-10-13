@@ -13,12 +13,10 @@
 
 ---
 
-<video src="assets/videos/demo.mp4" alt="Demo Video" style="width: 100%; height: auto;" controls loading="lazy">
-  您的浏览器不支持视频标签。
-</video>
+<img src="assets/videos/demo.gif" alt="Demo Animation" style="width: 100%; height: auto;" loading="lazy">
+
 
 ---
-
 
 **MomentSeg** is a unified MLLM for pixel-level vision–language understanding, designed with a moment-centric sampling strategy to better capture fine-grained semantics in video. It flexibly supports a range of tasks, including referring and reasoning image/video segmentation, video temporal grounding, and image/video question answering.
 
