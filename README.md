@@ -71,6 +71,11 @@ Instruction: "Please segment the person standing in the center wearing blue clot
 | **RefCOCO+ (RES)** | `val: 76.9/78.2` `testA: 81.1/81.9` `testB: 71.8/71.3` |
 | **RefCOCOg (RES)** | `val(U): 78.8/80.1` `test(U): 79.2/80.1`                  |
 | **ReasonSeg**      | `val: 62.0/63.3` `test: 64.3/65.5`                        |
+| **GCG**            | `val: 67.0/67.8` `test:  65.9/67.9`                        |
+
+
+
+
 
 </details>
 
@@ -82,11 +87,17 @@ Instruction: "Please segment the person standing in the center wearing blue clot
 | Benchmark                       | Evaluation Results (3B/7B)                             |
 | ------------------------------- | ------------------------------------------------------ |
 | **ReVOS**           | `J: 59.7/61.9` `F: 64.4/66.1` `J&F: 62.1/64.0` |
-| **MeViS (val_u)**         | `J: 58.1/58.7` `F: 65.9/66.5` `J&F: 62.0/62.6` |
-| **MeViS (val)**           | `J: 51.7/53.9` `F: 58.0/60.2` `J&F: 54.8/57.1` |
+| **ReasonVOS**       | `J: 58.2/59.2` `F: 65.3/66.1` `J&F: 61.7/62.7` |
+| **MeViS (val_u)**   | `J: 58.1/58.7` `F: 65.9/66.5` `J&F: 62.0/62.6` |
+| **MeViS (val)**     | `J: 51.7/53.9` `F: 58.0/60.2` `J&F: 54.8/57.1` |
 | **Ref-YouTube-VOS** | `J: 69.8/70.1` `F: 74.3/74.5` `J&F: 72.0/72.3` |
 | **Ref-DAVIS17**     | `J: 72.2/73.2` `F: 80.6/81.7` `J&F: 76.4/77.4` |
 | **Ref-SAV**         | `J: 79.2/80.1` `F: 80.6/81.4` `J&F: 79.9/80.8` |
+
+
+
+
+
 
 </details>
 
