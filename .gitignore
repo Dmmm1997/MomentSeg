@@ -1,0 +1,175 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/*/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+
+# Project local files
+.vscode/
+.idea/
+.DS_Store
+model_scope_upload.sh
+
+# Data directories and local symlinks
+/data
+/data/
+/datasets
+/datasets/
+
+# Pretrained models, released checkpoints, and training outputs
+/pretrained
+/pretrained/
+/weights
+/weights/
+/checkpoints
+/checkpoints/
+/work_dirs
+/work_dirs/
+/work_dirs_*/
+/output
+/output/
+/outputs
+/outputs/
+/runs
+/runs/
+/logs
+/logs/
+/wandb
+/wandb/
+/temp_*/
+
+# Model weights and large binary artifacts
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.bin
+*.onnx
+*.pkl
+*.pkl.json
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+
+# Generated logs and temporary files
+*.log.json
+*.py~
+*.sh~
+*.out
+*.err
+batchscript-*
+
+# Generated visualizations
+/tools/plot/
+mevis_visualizations/
+reason_visualizations/
+revos_visualizations/
+
+# Local SAM2.1 config symlinks copied from the upstream package.
+# The real config files live under third_parts/sam2_1/configs/.
+# /third_parts/sam2_1/sam2_hiera_t.yaml
+# /third_parts/sam2_1/sam2_hiera_s.yaml
+# /third_parts/sam2_1/sam2_hiera_b+.yaml
+# /third_parts/sam2_1/sam2_hiera_l.yaml

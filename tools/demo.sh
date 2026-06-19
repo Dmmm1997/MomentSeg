@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python demo/demo.py data/mevis/valid_u/JPEGImages/d6c1a055ae91 --model_path weights/Sa2VA-4B --work-dir outputs/2 --text "<image>Please segment the kitten moving around playing."
